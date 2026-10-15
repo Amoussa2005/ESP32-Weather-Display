@@ -1,0 +1,21 @@
+# Wi-Fi credentials and API keys
+config.h
+**/config.h
+.env
+*.env
+
+# Arduino build files
+*.bin
+*.elf
+*.map
+*.hex
+*.o
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
